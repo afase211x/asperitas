@@ -1,7 +1,7 @@
 const categories = [
-  'music',
-  'funny',
-  'videos',
+  'socc',
+  'highlights',
+  'live',
   'programming',
   'news',
   'fashion'
